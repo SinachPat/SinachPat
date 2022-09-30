@@ -6,7 +6,7 @@ I guess you came to know more about me, yeah? Let's jump right into that
 - 🌱 I’m currently learning JavaScript, Typescript, React and ReactNative
 - 👯 I’m looking to collaborate on Projects where I can focus on UI Engineering and Design Systems
 - 💬 Ask me about UI/UX Design, Frontend Web Engineering, How to search on Google, Product Engineering
-- 📫 How to reach me: sinachpat@gmail.com, www.sinachpat.com [Coming soon]
+- 📫 How to reach me: sinachpat@gmail.com, Portfolio website [Coming soon]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been afraid of exploring my inner desires for a long time - UI Engineering, now I'm doing this and I'm not looking back.
 
