@@ -3,7 +3,7 @@
 I guess you came to know more about me, yeah? Let's jump right into that
 
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning JavaScript, Typescript, React and ReactNative
+- 🌱 I’m currently learning Flutter 💙
 - 👯 I’m looking to collaborate on Projects where I can focus on UI Engineering and Design Systems
 - 💬 Ask me about UI/UX Design, Frontend Web Engineering, How to search on Google, Product Engineering
 - 📫 How to reach me: sinachpat@gmail.com, Portfolio website [Coming soon]
