@@ -10,7 +10,7 @@ I guess you came to know more about me, yeah? Let's jump right into that
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SinachPat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SinachPat&count_private=true&theme=tokyonight&show_icons=true)]()
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SinachPat&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SinachPat&theme=dark)](https://git.io/streak-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SinachPat&langs_count=5&theme=tokyonight)]()
 ![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SinachPat&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
