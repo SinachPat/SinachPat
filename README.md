@@ -13,7 +13,7 @@ I guess you came to know more about me, yeah? Let's jump right into that
 [![My GitHub Stats](https://github-stats-seven-lemon.vercel.app/api?username=SinachPat&count_private=true&theme=tokyonight&show_icons=true)]()
 [![My GitHub Language Stats](https://github-stats-seven-lemon.vercel.app/api/top-langs/?username=SinachPat&langs_count=5&theme=tokyonight)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SinachPat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sinachpat&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 [![SinachPat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SinachPat&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
